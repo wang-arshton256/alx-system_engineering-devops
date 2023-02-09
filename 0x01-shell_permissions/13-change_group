@@ -1,2 +1,2 @@
 #!/bin/bash
-chown user:school hello
+chown :school hello
