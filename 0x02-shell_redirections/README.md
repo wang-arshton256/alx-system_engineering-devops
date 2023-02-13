@@ -1,1 +1,1 @@
-This script prints a confused smiley
+display passwd
