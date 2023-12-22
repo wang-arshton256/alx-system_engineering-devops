@@ -1,4 +1,4 @@
-#!bin/bash/env bash
+#!/usr/bin/env bash
 # prints the word school 10 times using while loop
 
 i=1
