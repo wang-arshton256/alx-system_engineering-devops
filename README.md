@@ -1,1 +1,1 @@
-This repository contains a folder for a scriipt that prints the path name of the current working directory
+0x04. Loops, conditions and parsing
