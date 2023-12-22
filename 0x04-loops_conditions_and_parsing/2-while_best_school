@@ -1,7 +1,8 @@
 #!bin/bash/env bash
 # prints the word school 10 times using while loop
 
-while ((i =2; i <=11; i++))
+while [ $i -le 10 ]
 do 
 	echo "Best School"
+	((i++))
 done
