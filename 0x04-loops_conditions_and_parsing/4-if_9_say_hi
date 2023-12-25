@@ -1,17 +1,14 @@
-!/usr/bin/env bash
-# this script displays best school 10 time
-# with Hi using for and if statement
+#!/usr/bin/env bash
+# A script that displays Best School 10 times and hi after the 9th using while and if
 
 i=1
+
 while [ $i -le 10 ]
 do
-    if [ $i -eq 9 ];
+    echo "Best School"
+    if [ $i -eq 9 ]
     then
-       echo "Best School"
-       echo "Hi"
-    else
-        echo "Best School"
+        echo "Hi"
     fi
     ((i++))
-   
 done
