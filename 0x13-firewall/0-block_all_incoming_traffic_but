@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #Configuring a ufw firewall to block all incoming traffic
-except for the TCP ports 22, 80, and 443.
+#except for the TCP ports 22, 80, and 443.
 
 sudo apt install ufw
 sudo ufw default deny incoming
